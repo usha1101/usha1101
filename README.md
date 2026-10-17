@@ -71,6 +71,24 @@ I am a **B.Tech Artificial Intelligence & Data Science** student at **Reva Unive
 - **Tech Stack:** Python (Standard Library), HTML5, CSS3, JSON.
 - [Explore Repository →](https://github.com/usha1101/skill-gap-detector)
 
+#### 5. [📝 AI-Assisted Technical Documentation Generator](https://github.com/usha1101/AI-Assisted-Technical-Documentation-Generator)
+> **Automated Code Summarization & AST-Guided Docstring Injection Engine**
+- Combines Python Abstract Syntax Tree (AST) analysis with local Seq2Seq transformer summarization using `Salesforce/codet5-base-multi-sum`.
+- Extracts signatures, argument types, defaults, and raised exceptions; generates docstrings in Google, Sphinx, NumPy, or Concise styles; and safely injects them in-place with precise indentation preservation.
+- Served through an asynchronous FastAPI REST backend and a dark-themed interactive Streamlit chat interface.
+- **Attribution & Roles:** Original concept & model integration by [Nithin Reddy](https://github.com/nithinreddy18) ([@nithinreddy18](https://github.com/nithinreddy18)); enhanced architecture, AST signature extraction, in-place injection engine, multi-style formatting, test suite, and maintainer by [Usha](https://github.com/usha1101) ([@usha1101](https://github.com/usha1101)).
+- **Tech Stack:** Python, AST, PyTorch, Hugging Face Transformers, FastAPI, Streamlit, Pydantic v2.
+- [Explore Repository →](https://github.com/usha1101/AI-Assisted-Technical-Documentation-Generator)
+
+#### 6. [📈 Large-Scale Time Series Forecasting System (PeriShield AI)](https://github.com/usha1101/Large-Scale-Time-Series-Forecasting-System)
+> **Enterprise Hybrid Demand Forecasting for Retail Supply Chains**
+- End-to-end time-series forecasting system engineered to predict multi-store daily demand for perishable goods.
+- Features automated temporal preprocessing, cyclical calendar encodings, and rolling window feature engineering.
+- Implements a hybrid stacking ensemble architecture combining a Random Forest tabular regressor with a PyTorch 2-layer Deep LSTM synthesized via an XGBoost meta-learner.
+- Served through asynchronous FastAPI endpoints and an interactive React analytics dashboard.
+- **Tech Stack:** Python, PyTorch, Scikit-learn, XGBoost, FastAPI, React, Docker.
+- [Explore Repository →](https://github.com/usha1101/Large-Scale-Time-Series-Forecasting-System)
+
 ---
 
 ### 📊 GitHub Activity & Statistics
